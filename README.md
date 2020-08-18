@@ -6,7 +6,7 @@
 **dedeogluhu/dedeogluhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - ⚡ I'm an Economics student and a self-taught backend programmer from Turkey
-- ⚡ I usually use C# and Python
+- ⚡ Current Languages: C# and Python
 - ⚡ Past Experiences: node.js, C, C++
 - ⚡ Other Skills : Game engines (Mostly Unity), Git, Html, Css, SQL, Django
 - ⚡ Currently Learning : Ethical Hacking, Linux, xml and Chinese
