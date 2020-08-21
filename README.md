@@ -12,6 +12,8 @@
 - ⚡ Currently Learning : Ethical Hacking, Linux, xml and Chinese
 - ⚡ Planning to Learn : Advanced Microsoft Office apps and Go in the future
 
+[dedeogluhu.github.io](https://dedeogluhu.github.io/index.html)
+
 [instagram](https://www.instagram.com/dedeogluhu)
 
 [twitter](https://twitter.com/dedeogluhu)
