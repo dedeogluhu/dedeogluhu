@@ -13,3 +13,4 @@
 - ⚡ Planning to Learn : Advanced Microsoft Office apps and Go in the future
 
 [instagram](https://www.instagram.com/dedeogluhu)
+[twitter](https://twitter.com/dedeogluhu)
