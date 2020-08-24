@@ -8,8 +8,8 @@
 - ⚡ I'm an Economics student and a self-taught backend programmer from Turkey
 - ⚡ Current Languages: C# and Python
 - ⚡ Past Experiences: node.js, C, C++
-- ⚡ Other Skills : Game engines (Mostly Unity), Git, Html, Css, SQL, Django
-- ⚡ Currently Learning : Ethical Hacking, Linux, xml and Chinese
+- ⚡ Other Skills : Game engines (Mostly Unity), Linux, Git, Html, Css, xml, SQL, Django
+- ⚡ Currently Learning : Ethical Hacking and Chinese
 - ⚡ Planning to Learn : Advanced Microsoft Office apps and Go in the future
 
 [dedeogluhu.github.io](https://dedeogluhu.github.io)
