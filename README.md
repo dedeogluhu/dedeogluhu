@@ -8,7 +8,7 @@
 - ⚡ I'm an Economics student and a self-taught backend programmer from Turkey
 - ⚡ Current Languages: C# and Python
 - ⚡ Past Experiences: node.js, C, C++
-- ⚡ Other Skills : Game engines (Mostly Unity), Linux, Git, Html, Css, xml, SQL, Django
+- ⚡ Other Skills : Game engines (Mostly Unity), Linux, Git, Html, Css, XML, SQL, Django
 - ⚡ Currently Learning : Ethical Hacking and Chinese
 - ⚡ Planning to Learn : Advanced Microsoft Office apps and Go in the future
 
