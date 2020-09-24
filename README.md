@@ -11,7 +11,6 @@
 - ⚡ Languages: Turkish(Native), English(Advanced), Chinese(Beginner), German(Beginner)
 - ⚡ Other Skills : Linux, Git, Html, Css, SQL, Django
 - ⚡ Had Time with : Ethical Hacking, Game engines (Mostly Unity)
-- ⚡ Planning to Learn : Go and C in the future
 
 [dedeogluhu.github.io](https://dedeogluhu.github.io)
 
