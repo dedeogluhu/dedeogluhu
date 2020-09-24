@@ -8,7 +8,7 @@
 - ⚡ I'm a self-taught programmer from Turkey
 - ⚡ I study Economics in Yıldız Technical University
 - ⚡ Programming Languages: C#, Python, Javascript
-- ⚡ Languages: Turkish, English, Chinese(Currently Learning), German(Currently Learning)
+- ⚡ Languages: Turkish(Native), English(Advanced), Chinese(Beginner), German(Beginner)
 - ⚡ Other Skills : Linux, Git, Html, Css, SQL, Django
 - ⚡ Had Time with : Ethical Hacking, Game engines (Mostly Unity)
 - ⚡ Planning to Learn : Go and C in the future
