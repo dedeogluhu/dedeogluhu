@@ -1,14 +1,14 @@
 # Hi there 👋
 
 
-- ⚡ I'm a **self-taught** programmer from **Turkey**
+-  I'm a **self-taught** programmer from **Turkey**
 
-- ⚡ I study **Economics** in **Yıldız Technical University**
+-  I study **Economics** in **Yıldız Technical University**
 
-- ⚡ **Programming Languages**: C#, Python, Javascript
+-  **Programming Languages**: C#, Python, Javascript
 
-- ⚡ **Languages**: Turkish(Native), English(Advanced), Chinese(Beginner), German(Beginner)
+-  **Languages**: Turkish(Native), English(Advanced), Chinese(Beginner), German(Beginner)
 
-- ⚡ **Other Skills** : Html, Css, SQL, Django, Version Control
+-  **Other Skills** : Html, Css, SQL, Django, Version Control
 
-- ⚡ **Had Time with** : Ethical Hacking, Game engines (Mostly Unity)
+-  **Had Time with** : Ethical Hacking, Game engines (Mostly Unity)
