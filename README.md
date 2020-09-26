@@ -9,6 +9,6 @@
 
 -  **Languages**: Turkish(Native), English(Advanced), Chinese(Beginner), German(Beginner)
 
--  **Other Skills** : Html, Css, SQL, Django, Version Control
+-  **Other Skills** : Html, Css, SQL, Vue, Django, Version Control
 
 -  **Had Time with** : Ethical Hacking, Game engines (Mostly Unity)
