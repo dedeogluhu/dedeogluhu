@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dedeogluhu" alt="dedeogluhu" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](dedeogluhu.github.io)
+- 🔭 I’m currently working on [my portfolio](https://dedeogluhu.github.io)
 
 - 🌱 I’m currently learning **node, Express and algorithms etc.**
 
@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **randomized algorithms and asp.net**
 
-- 👨‍💻 All of my projects are available at [dedeogluhu.github.io](dedeogluhu.github.io)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/dedeogluhu?tab=repositories)
 
-- 💬 I'm speaking **Turkish, English and a bit of German and Chinese**
+- 💬 I'm speaking **Turkish, English and learning Chinese and German**
 
 - 📫 How to reach me **huseyin_dedeoglu1@outlook.com**
 
