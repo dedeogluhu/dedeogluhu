@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Dedeoğlu</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dedeogluhu" alt="dedeogluhu" /> </p>
-
 - 🔭 I’m currently working on [my portfolio](https://dedeogluhu.github.io)
 
 - 🌱 I’m currently learning **node, Express and algorithms etc.**
