@@ -13,7 +13,7 @@
 
 - 💬 I'm speaking **Turkish, English and learning Chinese and German**
 
-- 📫 How to reach me **huseyin_dedeoglu1@outlook.com**
+- 📫 How to reach me **dedeogluhu@gmail.com**
 
 - ⚡ Fun fact **learning Chinese and German at the same time**
 
