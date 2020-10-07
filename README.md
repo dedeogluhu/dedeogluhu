@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [my portfolio](https://dedeogluhu.github.io)
 
-- 🌱 I’m currently learning **node, Express and algorithms etc.**
+- 🌱 I’m currently learning **Expressjs and Complexity Theory**
 
 - 👯 I’m looking to collaborate on **any project that includes js**
 
-- 🤝 I’m looking for help with **randomized algorithms and asp.net**
+- 🤝 I’m looking for help with **Randomized Algorithms**
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/dedeogluhu?tab=repositories)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dedeogluhu@gmail.com**
 
-- ⚡ Fun fact **learning Chinese and German at the same time**
+- ⚡ Fun fact **I'm an Econ student**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
