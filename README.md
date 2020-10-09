@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://dedeogluhu.github.io)
 
-- 🌱 I’m currently learning **Expressjs and Complexity Theory**
+- 🌱 I’m currently learning **Expressjs and MongoDB**
 
 - 👯 I’m looking to collaborate on **any project that includes js**
 
