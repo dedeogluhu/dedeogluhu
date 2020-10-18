@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/dedeogluhu?tab=repositories)
 
-- 💬 I'm speaking **Turkish, English and learning Chinese and German**
+- 💬 I'm speaking **Turkish, English, learning Chinese and German**
 
 - 📫 How to reach me **dedeogluhu@gmail.com**
 
