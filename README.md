@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Dedeoğlu</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://dedeogluhu.github.io)
+- 🔭 I’m currently working on [a drawing app](https://github.com/dedeogluhu/YouShouldDraw)
 
 - 🌱 I’m currently learning **Expressjs and MongoDB**
 
