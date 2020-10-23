@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project that includes js**
 
-- 🤝 I’m looking for help with **Randomized Algorithms**
+- 🤝 I’m looking for help with **algorithms**
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/dedeogluhu?tab=repositories)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dedeogluhu@gmail.com**
 
-- ⚡ Fun fact **I'm an Economics student**
+- ⚡ Fun fact **I'm an economics student**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
