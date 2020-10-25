@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project that includes js**
 
-- 🤝 I’m looking for help with **algorithms**
+- 🤝 I’m looking for help with **[this drawing app](https://github.com/dedeogluhu/YouShouldDraw)**
 
 - 👨‍💻 All of my projects are available at [the repositories section](https://github.com/dedeogluhu?tab=repositories)
 
