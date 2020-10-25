@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **algorithms**
 
-- 👨‍💻 All of my projects are available at [repositories](https://github.com/dedeogluhu?tab=repositories)
+- 👨‍💻 All of my projects are available at [the repositories section](https://github.com/dedeogluhu?tab=repositories)
 
 - 💬 I'm speaking **Turkish, English, learning Chinese and German**
 
