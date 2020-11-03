@@ -29,5 +29,5 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dedeogluhu&show_icons=true" alt="dedeogluhu" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedeogluhu&layout=compact" alt="dedeogluhu" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedeogluhu&layout=compact" alt="dedeogluhu" /></p>
 
