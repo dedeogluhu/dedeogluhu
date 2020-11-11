@@ -17,8 +17,8 @@
 
 - ⚡ Fun fact **I'm an economics student**
 
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <h3 align="center">Connect with me:</h3>
 
   <a align="center" href="https://twitter.com/dedeogluhu" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dedeogluhu" height="30" width="40" />
