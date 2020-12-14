@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Dedeoğlu</h1>
 <h3 align="center">Passionate web developer</h3>
 
-- 🔭 I’m currently working on **my exams**
+- 🔭 I’m currently working for **my exams**
 
-- 🌱 I’m currently learning **Expressjs and MongoDB**
+- 🌱 I’m currently learning **Economic History of Turkey**
 
 - 👯 I’m looking to collaborate on **any project that includes js**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **[the repositories section](https://github.com/dedeogluhu?tab=repositories)**
 
-- 💬 I'm speaking **Turkish, English, learning Chinese and German**
+- 💬 I'm speaking **Turkish, English, learning Chinese**
 
 - 📫 How to reach me **dedeogluhu@gmail.com**
 
