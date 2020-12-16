@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **dedeogluhu@gmail.com**
 
-- ⚡ Fun fact **I'm an economics student**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 
