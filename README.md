@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Dedeoğlu</h1>
 <h3 align="center">Passionate web developer</h3>
 
-- 🔭 I’m currently working for **my exams**
+- 🔭 I’m currently studying for **my exams**
 
 - 🌱 I’m currently learning **Economic History of Turkey**
 
