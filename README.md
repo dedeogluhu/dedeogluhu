@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying for **my exams**
 
-- 🌱 I’m currently learning **Economic History of Turkey**
+- 🌱 I’m currently learning **economics**
 
 - 👯 I’m looking to collaborate on **any project that includes js**
 
