@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Dedeoğlu</h1>
 <h3 align="center">Passionate economics student who loves to code</h3>
 
-- 🔭 I’m currently studying for **my exams**
+- 🔭 I love to learn about **economics, sociology, history and programming**
 
-- 🌱 I’m currently learning **economic history**
+- 🌱 I’m currently reading **"Dijital Kale(Dan Brown)", "Sociology(Anthony Giddens) and "Economics(Michael Parkin)"**
 
 - 👨‍💻 All of my projects are available at **[the repositories section](https://github.com/dedeogluhu?tab=repositories)**
 
