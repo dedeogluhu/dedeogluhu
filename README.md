@@ -3,7 +3,7 @@
 
 - 🔭 I love to learn about **economics, sociology, history and programming**
 
-- 🌱 I’m currently reading **"Dijital Kale(Dan Brown)", "Sociology(Anthony Giddens) and "Economics(Michael Parkin)"**
+- 🌱 I’m currently reading **"Digital Fortress(Dan Brown)", "Sociology(Anthony Giddens) and "Economics(Michael Parkin)"**
 
 - 👨‍💻 All of my projects are available at **[the repositories section](https://github.com/dedeogluhu?tab=repositories)**
 
