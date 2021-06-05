@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently reading **"Sociology(Anthony Giddens)"**
 
-- 👨‍💻 All of my projects are available in **[the repositories section](https://github.com/dedeogluhu?tab=repositories)**
-
 - 💬 I'm speaking **Turkish, English and trying to learn Chinese**
 
 <p align="center">
