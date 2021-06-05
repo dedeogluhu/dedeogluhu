@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently reading **"Sociology(Anthony Giddens)"**
 
-- 💬 I'm speaking **Turkish, English and trying to learn Chinese**
+- 💬 I'm speaking **Turkish, English, trying to learn Chinese and German**
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dedeogluhu&show_icons=true" alt="dedeogluhu" />
