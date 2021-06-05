@@ -9,8 +9,6 @@
 
 - 💬 I'm speaking **Turkish, English and trying to learn Chinese**
 
-- 📫 How to reach me **dedeogluhu@gmail.com**
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dedeogluhu&show_icons=true" alt="dedeogluhu" />
 </p>
