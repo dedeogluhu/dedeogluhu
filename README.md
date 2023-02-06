@@ -3,7 +3,7 @@
 
 - 🔭 I love to learn about **economics, history, languages and programming**
 
-- 🌱 I’m currently reading **"Sociology(Anthony Giddens)"**
+- 🌱 I’m currently reading **"The Little Book of Valuation: How to Value a Company, Pick a Stock and Profit by Aswath Damadoran"**
 
 - 💬 I'm speaking **Turkish, English, trying to learn Chinese and German**
 
