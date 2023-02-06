@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Dedeoğlu</h1>
 <h3 align="center">Passionate accountant who loves to code</h3>
 
-- 🔭 I love to learn about **economics, history, languages and programming**
+- 🔭 I love to learn about **the stock market, accounting, history and programming**
 
 - 🌱 I’m currently reading **"The Little Book of Valuation: How to Value a Company, Pick a Stock and Profit by Aswath Damadoran"**
 
