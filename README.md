@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Dedeoğlu</h1>
-<h3 align="center">Passionate economics student who loves to code</h3>
+<h3 align="center">Passionate accountant who loves to code</h3>
 
-- 🔭 I love to learn about **economics, sociology, history, languages and programming**
+- 🔭 I love to learn about **economics, history, languages and programming**
 
 - 🌱 I’m currently reading **"Sociology(Anthony Giddens)"**
 
