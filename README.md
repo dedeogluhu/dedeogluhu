@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Dedeoğlu</h1>
-<h3 align="center">Passionate accountant who is on the road to become a data scientist</h3>
+<h3 align="center">Passionate accountant who loves to develop</h3>
 
 - 🔭 I love to learn about **the stock market, accounting/finance, history and programming**
 
